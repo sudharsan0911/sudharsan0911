@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUDHARSAN S</h1>
 <h3 align="center">A passionate web developer and UG graduate</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Springboot, Angular**
 
 - 👨‍💻 All of my projects are available at [https://sudharsan.onrender.com/](https://sudharsan.onrender.com/)
 
