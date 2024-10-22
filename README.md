@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUDHARSAN S</h1>
-<h3 align="center">A passionate web developer and UG graduate</h3>
+<h3 align="center">A passionate full stack developer currently working in UST,trivandum</h3>
 
 - 🌱 I’m currently learning **Springboot, Angular**
 
